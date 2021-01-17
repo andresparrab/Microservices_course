@@ -12,7 +12,7 @@ interface Todo {
 // title
 //completed
 axios.get(url).then((response) => {
-  const todo = response.data as Todo; //we say that response.data has tu have the same structure as the object Todo
+  const todo = response.data as Todo; //we say that response.data has to have the same structure as the object Todo
   const ID = todo.id;
   const title = todo.title;
   const completed = todo.completed;
