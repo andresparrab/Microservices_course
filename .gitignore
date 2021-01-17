@@ -6,6 +6,7 @@
 /.pnp
 .pnp.js
 /typescript/fetchjson/package-lock.json
+/typescript/**/node_modules
 
 # testing
 /coverage
