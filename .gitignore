@@ -7,7 +7,8 @@
 .pnp.js
 /typescript/fetchjson/package-lock.json
 /typescript/**/node_modules
-/typescript/**/cache
+typescript/**/.cache
+typescript/mapsApp/dist/
 /typescript/**/package-lock.json
 
 
@@ -27,3 +28,4 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+typescript/mapsApp/package-lock.json
