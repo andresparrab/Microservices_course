@@ -1,4 +1,4 @@
-// class deficnition
+// class definition
 class Vehicle {
   constructor(public color: string) {}
 
