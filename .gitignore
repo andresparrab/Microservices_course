@@ -8,6 +8,7 @@
 /typescript/fetchjson/package-lock.json
 /typescript/**/node_modules
 /typescript/**/cache
+/typescript/**/package-lock.json
 
 
 # testing
